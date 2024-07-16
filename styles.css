@@ -1,2 +1,17 @@
 
 /* Your CSS Code here. */
+h1{
+	font-size:30px;
+}
+*{
+	width:100%;
+	margin:auto;
+	background-color: grey;
+	font-family:system-ui;
+	font-size: 20px;
+	border-block: 2px solid peachpuff;
+}
+a:hover{
+  cursor: pointer;
+	background-color: green;
+}
